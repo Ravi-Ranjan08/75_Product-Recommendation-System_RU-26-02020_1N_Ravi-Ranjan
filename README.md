@@ -12,6 +12,7 @@ A simple console-based recommendation system written in **Python 3**. It finds t
 # ERP: RU-26-02020
 # Email: ravi.ranjan@rungta.org
 # Section: 1N
+# course: B.Tech Computer Science and Engineering, First Semester
 
 ## Table of Contents
 
@@ -394,8 +395,4 @@ Recommended: Keyboard
 
 ---
 
-## Author
 
-**Name:** _Your Name_
-**Roll No:** _Your Roll Number_
-**Course:** B.Tech Computer Science and Engineering, First Semester
